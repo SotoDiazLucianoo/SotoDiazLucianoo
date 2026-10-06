@@ -6,11 +6,7 @@
 
 <img data-importer="image" align="left" height="129" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVsZTFqYXBuM2xydGxiM3p4aTdmcXJtNWUwazN3dmk0bGlnbmNieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 
-###
-
 <h2 data-importer="text" align="left">🌍 Hello world! I'm Luciano Soto Diaz and I'm a Systems Engineering student 🎓. I really enjoy challenges 🎯, solving problems 🧠, and learning new technologies ⚡</h2>
-
-###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="54" alt="javascript logo"  />
@@ -48,10 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="54" alt="css logo"  />
 </div>
 
+<br clear="both">
+
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2F6ejhldnZyazJhbzNla2hnenJ2eGxjZGNyYmhkcXRlN2d6cHh4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PMj971OjHZytCpSMIf/giphy.gif"  />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2F6ejhldnZyazJhbzNla2hnenJ2eGxjZGNyYmhkcXRlN2d6cHh4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PMj971OjHZytCpSMIf/giphy.gif" width="650" />
 </div>
 
 ###
@@ -73,5 +71,3 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
 </div>
-
-###
