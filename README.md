@@ -8,7 +8,11 @@
 
 <h2 data-importer="text" align="left">🌍 Hello world! I'm Luciano Soto Diaz and I'm a Systems Engineering student 🎓. I really enjoy challenges 🎯, solving problems 🧠, and learning new technologies ⚡</h2>
 
-<div data-importer="techs" align="left">
+<br clear="both">
+
+###
+
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
